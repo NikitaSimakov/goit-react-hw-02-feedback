@@ -1,0 +1,11 @@
+.feedback_thumb_button {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+    width: 250px;
+}
+
+.feedback_button {
+    height: 30px;
+}
