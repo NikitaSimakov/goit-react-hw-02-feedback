@@ -21,3 +21,12 @@ img {  display: block;  max-width: 100%;  height: auto;}
 li {
   list-style: none;
 }
+h1 {
+  font-size: 30px;
+}
+p {
+  font-size: 22px;
+}
+li {
+  font-size: 18px;
+}
