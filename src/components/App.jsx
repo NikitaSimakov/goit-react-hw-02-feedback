@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 
-import Section from "./Section";
-import Statistics from './Statistics'
+import Section from "./Section/Section";
+import Statistics from './Statistics/Statistics'
 import FeedbackOptions from './FeedbackOptions/FeedbackOptions';
 import Notification from "./Notification/Notification";
 
